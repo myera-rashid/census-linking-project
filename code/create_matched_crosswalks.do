@@ -1,11 +1,11 @@
 
 /****************************************************************************************
-Project: 		Census Linking Project
+Project: 	Census Linking Project
 Created by: 	Myera Rashid
 Last modified: 	04/22/2020
 Description: 	Makes matched crosswalks 
-Notes:   		This code uses US Census data from the NBER server. 
-				Code uses the ABE algorithm on exact and nysiis names to make linked data. 
+Notes:   	This code uses US Census data from the NBER server. 
+		Code uses the ABE algorithm on exact and nysiis names to make linked data. 
 *****************************************************************************************/
 
 
