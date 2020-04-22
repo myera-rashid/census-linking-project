@@ -10,7 +10,6 @@ Currently, there are three associated .do files that are found in the codes fold
 	- 	generate_weights.do: Example code outlining how to generate weights in order to reweight the matched data.
 
 The respective documentation for each of the .do files can be found in the documentation folder: 
-
 	-	create_matched_crosswalks_readme
 	-	merge_in_variables_readme
 	-	generate_weights_readme
