@@ -2,6 +2,8 @@ This repository provides codes and documentation associated with the Census Link
 
 Last modified: April 22, 2020
 
+-----
+
 Users can download linked crosswalks at https://censuslinkingproject.netlify.app/data/. Data can then be merged into these crosswalks from https://usa.ipums.org/usa/ to provide the user with historical longitudinal data for analysis. 
 
 Currently, there are three associated .do files that are found in the codes folder: 
